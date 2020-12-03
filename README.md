@@ -1,3 +1,5 @@
+This repository has been moved to [RustAudio/wmidi](https://github.com/RustAudio/wmidi)
+
 # WMIDI
 
 Midi encoding and decoding library suitable for real-time execution.
